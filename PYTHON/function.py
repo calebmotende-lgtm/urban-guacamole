@@ -1,11 +1,11 @@
 #functions
 # {return 3.142*radius*radius}
 
-#def p
-def area_circle(raduis):
-    ans= 3.142*pow(raduis,2)
-    print(f"for circle of raduis {raduis} area is {ans}")
-    return
+#def pra
+def area_circle(radius):
+    ans= 3.142*pow(radius,2)
+    #print(f"for circle of radius {radius} area is {ans}")
+    return ans
 area_circle(20)
 
 new_f= area_circle
