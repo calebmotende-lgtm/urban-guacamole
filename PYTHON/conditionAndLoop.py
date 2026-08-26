@@ -1,5 +1,7 @@
 age=20
 
+#if conditions
+
 if age>18:
     print("You can drink")
     print("Something else")
@@ -27,7 +29,7 @@ for i in range(0,len(ar)):
 #for(let singleitem of arr)
 for single_item in ar:
     print("Single item is ", single_item)
-    
+
 
 #while loop
 i=0
